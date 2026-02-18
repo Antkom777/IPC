@@ -1,0 +1,40 @@
+# Compiled object files
+*.o
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Build directories
+build/
+
+# Pipes and sockets
+*.fifo
+*.sock
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.old
+
+# IDE-specific files
+.vscode/
+.idea/
+*.code-workspace
